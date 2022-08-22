@@ -1,0 +1,224 @@
+track_name,artist_name,artist_pop,album,track_pop,danceability,energy,loudness,mode,key,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,duration_ms
+Shake It,Metro Station,53,Metro Station,68,0.618,0.955,-3.836,1,4,0.0798,0.00221,3.09e-06,0.486,0.79,150.034,4,179947
+Chinese New Year,SALES,61,SALES - EP,53,0.744,0.845,-7.422,0,4,0.253,0.759,0.232,0.1,0.749,75.221,4,160000
+Baby I'm Yours,Breakbot,57,By Your Side,69,0.829,0.792,-3.755,0,2,0.0668,0.726,5.83e-06,0.122,0.758,118.05,4,215507
+The Git Up,Blanco Brown,60,The Git Up,2,0.847,0.678,-8.635,1,9,0.109,0.0669,0,0.274,0.811,97.984,4,200594
+Say Hey (I Love You),Michael Franti & Spearhead,58,All Rebel Rockers,0,0.738,0.983,-4.374,0,5,0.0855,0.038,5.93e-06,0.183,0.957,92.998,4,235760
+Falling for U,Peachy!,57,Falling for U,1,0.516,0.358,-12.018,0,8,0.424,0.743,1.3e-06,0.0813,0.397,79.509,4,124000
+Shooting Stars,Bag Raiders,53,Bag Raiders (Deluxe),0,0.649,0.716,-6.232,1,11,0.0445,0.0879,0.03,0.0824,0.503,124.968,4,235813
+fast,Sueco,65,fast,0,0.877,0.503,-10.269,0,7,0.22,0.164,0.0132,0.102,0.529,100.069,4,144000
+On A Roll,Ashley O,43,On A Roll,58,0.736,0.81,-6.354,1,5,0.0906,0.077,0,0.0523,0.387,125.011,4,154448
+Good Girls Bad Guys,Falling In Reverse,70,The Drug In Me Is You,64,0.474,0.948,-2.592,1,3,0.122,0.0223,0,0.43,0.611,146.46,4,195373
+Just Did a Bad Thing,Bill Wurtz,43,Just Did a Bad Thing,43,0.754,0.526,-12.96,1,1,0.0435,0.00261,0.466,0.113,0.716,117.051,4,167180
+Wait a Minute!,WILLOW,76,ARDIPITHECUS,86,0.764,0.705,-5.279,0,3,0.0278,0.0371,1.94e-05,0.0943,0.672,101.003,4,196520
+"Spooky, Scary Skeletons",Andrew Gold,49,Halloween Howls: Fun & Scary Music,50,0.806,0.447,-10.181,1,7,0.0461,0.27,3.7e-06,0.335,0.914,77.033,5,127627
+"Livin' in the Sunlight, Lovin' in the Moon Light",Tiny Tim,41,God Bless Tiny Tim,51,0.603,0.276,-19.238,1,4,0.0871,0.911,0.00237,0.484,0.86,99.561,4,125933
+Tell Me Something I Don't Know - Soundtrack,Selena Gomez,80,Another Cinderella Story (Original Motion Picture Soundtrack),56,0.611,0.936,-3.697,0,7,0.11,0.0309,0,0.12,0.697,144.901,4,201427
+STUPID (feat. Yung Baby Tate),Ashnikko,69,"Hi, It's Me",70,0.772,0.637,-6.881,1,2,0.114,0.00459,0,0.0778,0.54,149.906,4,167317
+Beef FloMix,Flo Milli,67,Beef FloMix,53,0.857,0.575,-8.36,1,7,0.221,0.239,0,0.293,0.901,116.993,4,147692
+Prom Queen,Beach Bunny,70,Prom Queen,80,0.528,0.797,-7.487,1,4,0.0485,0.000391,0.011,0.14,0.751,143.785,4,136562
+Don't Lose Ur Head,SIX,61,Six: The Musical (Studio Cast Recording),66,0.859,0.605,-7.635,0,7,0.357,0.251,0,0.132,0.722,82.91,4,245303
+"Legs (From ""RuPaul's Drag Race 8"")",Lucian Piane,32,"Legs (From ""RuPaul's Drag Race 8"")",44,0.9,0.72,-5.486,0,5,0.232,0.00502,6.26e-06,0.543,0.749,122.994,4,106364
+Woah (feat. D3Mstreet),KRYPTO9095,39,Woah (feat. D3Mstreet),56,0.888,0.522,-8.936,1,1,0.43,0.00739,0,0.0452,0.623,144.011,4,123373
+Steppin',Supa Dupa Humble,38,Steppin',55,0.85,0.58,-4.502,1,1,0.104,0.000404,0.0821,0.0714,0.12,160.055,4,145253
+Hungry Hippo,Tierra Whack,58,Whack World,57,0.893,0.61,-5.691,0,4,0.0488,0.0227,0.00744,0.102,0.778,136.64,4,60000
+I'm Sorry,Swell,47,Theres Still Us,0,0.944,0.541,-9.61,0,6,0.166,0.0879,0.000119,0.033,0.724,134.942,4,157333
+Vibin',Kesh Kesh,27,Vibin',41,0.686,0.805,-6.816,0,11,0.154,0.00478,1.09e-06,0.0887,0.289,130.981,4,154567
+Fly Me To The Moon (In Other Words),Frank Sinatra,74,Sinatra/Basie: The Complete Reprise Studio Recordings,71,0.668,0.26,-14.256,1,7,0.0523,0.453,0,0.0621,0.368,119.416,4,147000
+Yellow Hearts,Ant Saunders,52,Yellow Hearts,0,0.866,0.399,-10.938,1,7,0.0745,0.117,0,0.0689,0.713,129.047,4,223256
+Old Town Road,Lil Nas X,81,7 EP,76,0.907,0.53,-6.112,1,1,0.127,0.0578,2.23e-06,0.101,0.507,135.998,4,113000
+I Don't Mind (feat. Juicy J),Usher,78,I Don't Mind (feat. Juicy J),67,0.87,0.464,-8.337,1,4,0.178,0.205,0,0.0902,0.457,112.974,4,251989
+ROXANNE,Arizona Zervas,66,ROXANNE,78,0.621,0.601,-5.616,0,6,0.148,0.0522,0,0.46,0.457,116.735,5,163636
+American Boy,Estelle,65,Shine,78,0.727,0.729,-2.99,1,0,0.326,0.171,0,0.07,0.512,117.932,4,284733
+Beggin (original version),Madcon,61,So Dark The Con Of Man,70,0.715,0.8,-5.144,0,4,0.057,0.0271,0,0.0648,0.445,129.023,4,216147
+Put Your Head on My Shoulder,Paul Anka,59,Sings His Favorites,63,0.549,0.433,-8.526,1,7,0.0327,0.906,0.0108,0.0774,0.486,116.068,3,155080
+prom dress,mxmtoon,67,the masquerade,73,0.56,0.674,-6.048,1,10,0.0446,0.698,0,0.123,0.421,119.942,4,197933
+Criminal,Britney Spears,78,Femme Fatale (Deluxe Version),71,0.696,0.734,-5.294,1,7,0.0298,0.0485,0,0.183,0.711,107.987,4,225080
+Runway,Stunna Girl,45,YKWTFGO,47,0.638,0.912,-3.3,1,1,0.474,0.0155,0,0.234,0.725,190.178,4,152464
+It's The Hard-Knock Life,Quvenzhané Wallis,45,Annie (Original Motion Picture Soundtrack),53,0.738,0.841,-5.352,1,9,0.0924,0.0452,0.0105,0.03,0.836,163.913,4,130467
+Faucet Failure,Ski Mask The Slump God,75,STOKELEY,75,0.935,0.552,-9.373,0,10,0.335,0.111,0,0.0952,0.615,99.993,4,145627
+Buttercup,Jack Stauber,62,Pop Food,72,0.705,0.373,-9.066,1,7,0.0384,0.723,0.81,0.289,0.551,120.046,4,208026
+Hey Julie! (feat. Lil Yachty),KYLE,65,Light of Mine (Deluxe),55,0.803,0.499,-5.932,1,11,0.306,0.0363,3.46e-06,0.129,0.749,161.042,4,156637
+Uno,Ambjaay,41,Uno,56,0.978,0.477,-8.159,1,8,0.155,0.000143,0,0.133,0.196,110.002,4,109091
+Tunnel of Love,ilyTOMMY,61,Tunnel of Love,58,0.683,0.636,-12.096,0,7,0.0978,0.302,0.498,0.0972,0.615,160.012,4,142365
+Walk Man,Tiny Meat Gang,52,Walk Man,59,0.928,0.696,-4.972,0,4,0.0866,0.331,0.000119,0.121,0.396,94.994,4,165938
+CRACKHEAD,iLOVEFRiDAY,42,CRACKHEAD,31,0.746,0.419,-9.083,1,5,0.478,0.0828,0.00457,0.561,0.421,145.059,4,43427
+Fake ID,Riton,68,Foreign Ororo (Special Edition),63,0.746,0.862,-6.11,1,8,0.0776,0.21,0.0363,0.225,0.604,122.011,4,246970
+Wasabi,Little Mix,77,LM5 (Deluxe),66,0.847,0.656,-4.976,1,2,0.115,0.00451,0.000854,0.143,0.234,114.001,4,154787
+ALL IN,ZaeHD & CEO,37,HighDefGang Vol.1,44,0.895,0.394,-8.8,1,1,0.407,0.000686,0,0.239,0.491,141.008,4,206733
+Lalala,Y2K,63,Lalala,75,0.843,0.39,-7.899,1,2,0.0846,0.178,0,0.137,0.495,129.972,4,160627
+Womp Womp,Valee,46,Womp Womp,56,0.877,0.558,-4.896,1,1,0.342,0.066,0,0.0745,0.493,157.027,4,226533
+Shop,Toby Fox,70,UNDERTALE Soundtrack,1,0.696,0.301,-12.647,1,8,0.032,0.984,0.624,0.17,0.848,154.929,4,50274
+How You Feel? (Freestyle) (feat. Lil Yachty & Ski Mask The Slump God),DJ Scheme,62,Preseason EP,54,0.949,0.425,-7.393,1,5,0.224,0.0295,0,0.106,0.621,124.927,4,135023
+Ghost Duet,Louie Zong,52,Ghost Duet,58,0.707,0.234,-16.523,1,7,0.0864,0.96,0.861,0.124,0.611,78.036,3,60004
+Boys,Lizzo,81,Cuz I Love You (Deluxe),40,0.892,0.588,-4.287,0,1,0.11,0.00319,0.000162,0.0498,0.753,120.042,4,172630
+Mia Khalifa,iLOVEFRiDAY,42,Mia Khalifa,60,0.812,0.525,-8.798,1,1,0.124,0.255,0,0.325,0.564,145.016,4,177133
+Buff Baby,tobi lou,61,tobi lou and the Loop - EP,59,0.734,0.765,-6.047,1,5,0.0571,0.243,0,0.101,0.512,156.04,4,215385
+Marlboro Nights,Lonely God,59,Marlboro Nights,75,0.466,0.823,-6.635,1,2,0.311,0.00237,0.000321,0.332,0.782,175.797,4,68523
+Pumpkins scream in the dead of night,Savage Ga$p,59,Pumpkins scream in the dead of night,0,0.811,0.577,-5.997,1,1,0.439,0.14,0,0.0817,0.455,171.092,4,148140
+Dissolve,Absofacto,56,Thousand Peaces,68,0.688,0.582,-10.668,0,6,0.0542,0.23,0.000157,0.0663,0.872,85.486,4,224661
+Flamingo,Kero Kero Bonito,56,Flamingo,58,0.788,0.49,-6.287,1,8,0.511,0.313,0,0.0968,0.79,177.865,4,197528
+Who R U,Jufu,31,Who R U,35,0.925,0.337,-13.445,1,1,0.41,0.0135,0,0.065,0.529,91.478,4,124613
+Needs,Verzache,61,Needs,68,0.813,0.601,-7.552,0,11,0.116,0.189,0.0002,0.426,0.855,118.981,4,177479
+Make You Mine,PUBLIC,61,Make You Mine,77,0.606,0.799,-4.452,1,9,0.0261,0.0128,0,0.15,0.638,103.014,4,232907
+U Was At The Club (Bottoms Up),The Boyboy West Coast,32,U Was At The Club (Bottoms Up),50,0.845,0.791,-3.674,1,3,0.161,0.0186,0.107,0.0957,0.843,117.987,4,196400
+"Go Loko (feat. Tyga, Jon Z)",YG,75,4REAL 4REAL,67,0.88,0.67,-5.177,1,2,0.0468,0.325,4.17e-06,0.0662,0.131,101.008,4,299227
+Crush,Tessa Violet,56,Bad Ideas,0,0.912,0.401,-9.536,1,1,0.0856,0.03,0.000141,0.08,0.82,135.995,4,215832
+Asshole,hooligan chase,43,Asshole,56,0.748,0.802,-6.271,1,5,0.113,0.595,0.000678,0.113,0.874,159.984,4,156078
+Big And Chunky,will.i.am,72,Madagascar: Escape 2 Africa (Music From The Motion Picture),61,0.965,0.783,-6.898,0,6,0.098,0.141,0.000231,0.109,0.863,119.94,4,201640
+Gm Say It Back,Killua the Pilgrim,16,Gm Say It Back,31,0.689,0.405,-12.525,1,8,0.171,0.733,4.8e-05,0.54,0.423,77.54,4,102792
+Un Poco Loco,Anthony Gonzalez,55,Coco (Original Motion Picture Soundtrack),69,0.62,0.496,-7.509,1,7,0.133,0.597,1.36e-05,0.322,0.636,126.032,4,112205
+Liar,BigKlit,38,Liar,50,0.883,0.492,-12.118,1,7,0.354,0.339,0,0.166,0.59,94.959,4,146526
+Truth Hurts,Lizzo,81,Cuz I Love You (Deluxe),63,0.715,0.624,-3.046,0,4,0.114,0.11,0,0.123,0.412,158.087,4,173325
+"Galactic Mermaid (From ""Carole & Tuesday"")",Kuraiinu,42,"Galactic Mermaid (From ""Carole & Tuesday"")",0,0.621,0.446,-4.653,1,7,0.0384,0.736,0,0.613,0.97,108.727,4,45424
+"Jump Up, Super Star!",VGR,50,"Jump Up, Super Star!",52,0.619,0.858,-2.312,1,8,0.223,0.029,0,0.164,0.588,104.753,4,241452
+It's You,Ali Gatie,70,YOU,79,0.732,0.463,-6.972,0,11,0.0287,0.374,0,0.194,0.397,95.971,4,212607
+we fell in love in october,girl in red,75,we fell in love in october / forget her,82,0.566,0.366,-12.808,1,7,0.028,0.113,0.181,0.155,0.237,129.959,4,184154
+Cash Shit (feat. DaBaby),Megan Thee Stallion,82,Fever,67,0.921,0.635,-4.904,1,1,0.416,0.0218,0,0.0946,0.549,130.028,4,192540
+Gordon Ramsay,HL Wave,27,Gordon Ramsay,45,0.883,0.732,-7.133,0,10,0.343,0.0207,0,0.199,0.808,74.984,4,141150
+Sunshine,Ant Beale,43,No Rain No Flowers,61,0.762,0.624,-6.299,1,3,0.0951,0.0942,0,0.115,0.488,149.95,4,181543
+Smack a Bitch,Rico Nasty,67,Smack a Bitch,61,0.703,0.7,-2.417,1,2,0.221,0.0055,0,0.115,0.34,169.861,4,138353
+New Flesh,Current Joys,66,Wild Heart,3,0.62,0.594,-16.066,1,9,0.0383,0.887,0.5,0.0917,0.698,165.861,4,167987
+Wii Shop - Instrumental,Iceboy Ben,36,Wii Shop,43,0.76,0.516,-10.881,1,0,0.0694,0.000192,0.904,0.109,0.829,148.272,4,96968
+Wannabe,why mona,55,Wannabe,72,0.578,0.724,-7.02,0,6,0.0865,0.192,2.38e-05,0.235,0.465,169.827,4,217412
+Shh,Young Fanatic,44,Shh,0,0.758,0.716,-7.703,0,4,0.253,0.622,0.000402,0.281,0.964,170.14,4,120054
+Walk,Comethazine,63,Bawskee,1,0.831,0.795,-6.186,1,1,0.264,0.221,0,0.291,0.744,160.063,4,96064
+Ransom,Lil Tecca,77,We Love You Tecca,78,0.745,0.642,-6.257,0,7,0.287,0.0204,0,0.0658,0.226,179.974,4,131240
+Panini,Lil Nas X,81,Panini,70,0.703,0.594,-6.146,0,5,0.0752,0.342,0,0.123,0.475,153.848,4,114893
+You Reposted in the Wrong Neighborhood I Glue70 Mashup,Shokk,42,You Reposted in the Wrong Neighborhood I Glue70 Mashup,60,0.805,0.643,-13.912,1,10,0.232,0.41,0,0.606,0.927,104.047,4,196642
+My Type,Saweetie,73,ICY,70,0.899,0.811,-6.294,1,2,0.258,0.000677,0,0.0672,0.587,105.038,4,126446
+Mr. Sandman,The Chordettes,52,The Chordettes,50,0.626,0.535,-4.441,1,9,0.0443,0.85,0,0.0561,0.671,108.804,4,144200
+Take Your Man,Mahogany Lox,38,Take Your Man,54,0.934,0.658,-8.052,1,0,0.108,0.411,0.000738,0.0809,0.344,110.015,4,117363
+Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix],Getter Jaani,42,Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix],59,0.659,0.936,-3.519,1,2,0.0606,0.283,0.0207,0.192,0.884,161.983,4,155009
+Midnight City,M83,69,"Hurry Up, We're Dreaming",0,0.507,0.729,-5.399,0,11,0.0393,0.0182,1.4e-06,0.0658,0.272,105.013,4,243960
+Be Gone Thot!,LIL MAYO,34,Be Gone Thot!,42,0.922,0.451,-5.989,1,2,0.12,0.0142,4.74e-05,0.169,0.457,120.045,4,73000
+Eyes. Lips. Face.,iLL Wayno,26,Eyes. Lips. Face.,0,0.88,0.73,-7.008,1,6,0.181,0.0365,6.33e-06,0.232,0.86,159.957,4,139500
+The Muffin Song (asdfmovie),The Gregory Brothers,61,The Muffin Song (asdfmovie),59,0.911,0.842,-4.845,1,10,0.0922,0.205,1.48e-05,0.115,0.578,112.016,4,187046
+Becky,Championxiii,39,Champion Status,46,0.934,0.439,-9.564,0,4,0.338,0.00506,0,0.092,0.289,140.022,4,118776
+7 rings,Ariana Grande,87,7 rings,1,0.725,0.321,-10.744,0,1,0.323,0.578,0,0.0884,0.319,70.142,4,178640
+I Don't Care (with Justin Bieber),Ed Sheeran,90,I Don't Care (with Justin Bieber),78,0.798,0.675,-5.041,1,6,0.0442,0.0912,0,0.0894,0.842,101.956,4,219947
+I Love It (& Lil Pump),Kanye West,90,I Love It,72,0.901,0.522,-8.304,1,2,0.33,0.0114,0,0.259,0.329,104.053,4,127947
+Ride It,Regard,71,Ride It,81,0.88,0.751,-4.258,0,7,0.0874,0.177,6.43e-05,0.106,0.884,117.948,4,157606
+Never Ending Story,Gaten Matarazzo,57,"Stranger Things: Soundtrack from the Netflix Original Series, Season 3",75,0.438,0.489,-11.568,1,0,0.0465,0.0103,1.22e-05,0.442,0.182,136.077,3,125480
+You Make My Dreams (Come True),Daryl Hall & John Oates,70,Voices,77,0.751,0.501,-12.151,1,5,0.0551,0.234,0.112,0.0467,0.902,167.057,4,190627
+Indigo,88rising,68,Indigo,52,0.819,0.664,-5.612,1,7,0.0828,0.0958,1.75e-06,0.263,0.71,144.988,4,173473
+Crystal Dolphin,Engelwood,50,Crust Fm,0,0.567,0.687,-9.041,0,1,0.125,0.36,0.00293,0.474,0.396,128.201,4,115518
+Ophelia,The Lumineers,76,Cleopatra (Deluxe),54,0.664,0.573,-6.519,1,5,0.0277,0.613,0.000363,0.0857,0.566,76.023,4,160097
+Oh No!,MARINA,73,The Family Jewels,72,0.77,0.896,-3.971,1,0,0.039,0.0539,0,0.243,0.964,126.999,4,182587
+Disturbia,Rihanna,87,Good Girl Gone Bad: Reloaded,76,0.707,0.813,-4.515,0,11,0.0571,0.0863,0,0.168,0.722,124.921,4,238627
+ok boomer (feat. Jed Will),Peter Kuli,31,ok boomer,36,0.913,0.518,-2.317,1,1,0.416,0.092,0,0.071,0.594,129.896,4,132923
+Corduroy Dreams,Rex Orange County,79,Bcos U Will Never B Free,73,0.608,0.305,-14.037,1,4,0.053,0.653,0,0.103,0.222,113.818,4,206975
+Birthday Suit,Cosmo Sheldrake,53,The Much Much How How and I,0,0.69,0.574,-8.109,1,8,0.231,0.837,9.48e-05,0.121,0.522,62.619,4,80407
+All You Wanna Do,SIX,61,Six: The Musical (Studio Cast Recording),63,0.738,0.532,-7.967,0,11,0.187,0.302,0,0.0855,0.596,143.991,4,410089
+Falling,Trevor Daniel,65,Falling,15,0.785,0.431,-8.756,0,10,0.0364,0.123,0,0.0887,0.236,127.085,4,159382
+Candy,Doja Cat,88,Amala,71,0.689,0.516,-5.857,1,8,0.0444,0.513,0,0.163,0.209,124.876,4,190920
+This Could Be Us,Rae Sremmurd,72,SremmLife,78,0.732,0.69,-4.992,0,0,0.134,0.291,0,0.116,0.758,143.072,4,206307
+Poker Face,Lady Gaga,84,The Fame Monster (International Deluxe),44,0.851,0.806,-4.618,1,4,0.0788,0.12,1.39e-06,0.122,0.775,119.002,4,237200
+L.O.V.E.,Harrison Craig,39,L.O.V.E.,51,0.588,0.412,-6.226,0,11,0.0363,0.72,0,0.153,0.703,74.961,4,158493
+Sweet Caroline,Neil Diamond,67,Sweet Caroline,79,0.529,0.127,-16.066,1,11,0.0274,0.611,0.000109,0.237,0.578,63.05,4,203573
+I'm Gonna Show You Crazy,Bebe Rexha,76,I'm Gonna Show You Crazy,62,0.474,0.537,-6.77,1,2,0.0649,0.0758,0,0.316,0.335,90.103,4,207775
+Love Me,Justin Bieber,90,My Worlds (International Version),47,0.712,0.868,-3.319,0,5,0.0656,0.00939,0,0.283,0.652,125.028,4,191573
+Dancin (feat. Luvli) - Krono Remix,Aaron Smith,64,Dancin (feat. Luvli) [Krono Remix],78,0.72,0.741,-6.529,0,10,0.0287,0.101,1.41e-05,0.289,0.357,119.896,4,198053
+Tungs,The Frights,52,You Are Going to Hate This,56,0.565,0.618,-11.316,0,1,0.104,0.0697,6.37e-05,0.509,0.5,106.337,4,170299
+Best Friend,Rex Orange County,79,Best Friend,79,0.575,0.714,-5.247,1,6,0.0596,0.395,0,0.115,0.32,144.982,4,262231
+Video Games,The Young Professionals,41,Remixes & Covers,43,0.565,0.893,-4.683,0,4,0.0376,0.0303,0,0.0561,0.352,141.957,4,228706
+Cha Cha,Freddie Dredd,72,Cha Cha,0,0.708,0.696,-6.363,1,1,0.172,0.487,0.0718,0.128,0.743,129.96,4,173897
+Change Ya Life,Haiti Babii,47,Change Ya Life,58,0.696,0.399,-8.673,0,4,0.0369,0.0224,0,0.0747,0.364,98.004,4,156770
+Oh Nanana Challenge,Bonde R300,41,Oh Nanana Challenge,0,0.729,0.842,-2.997,1,1,0.261,0.0597,3.11e-06,0.319,0.574,64.808,4,133116
+Hot Dog!,They Might Be Giants (For Kids),50,"Minnie's Favorites (Songs from ""Mickey Mouse Clubhouse"")",29,0.818,0.674,-7.856,1,7,0.0811,0.448,3.59e-06,0.0774,0.926,92.614,4,148133
+Baby Powder,Bandingo YGNE,34,Dingo Christmas Season,40,0.804,0.439,-9.605,1,1,0.365,0.357,0,0.162,0.329,150.039,4,167500
+VALENTINO,24kGoldn,74,DROPPED OUTTA COLLEGE,72,0.746,0.717,-4.841,0,9,0.179,0.199,0,0.132,0.523,150.964,4,179133
+You Belong With Me,Taylor Swift,93,Fearless (Big Machine Radio Release Special),72,0.687,0.745,-4.432,1,6,0.0379,0.178,1.59e-05,0.111,0.435,129.966,4,232120
+Moment 4 Life,Nicki Minaj,85,Pink Friday,0,0.68,0.882,-3.883,1,11,0.236,0.406,0,0.241,0.386,97.943,4,279307
+Leaked,Lil Tjay,79,Leaked,50,0.759,0.613,-7.91,1,7,0.105,0.816,0,0.0816,0.329,97.012,4,220333
+Lottery (Renegade),K CAMP,63,Wayy 2 Kritical,56,0.915,0.556,-8.601,1,1,0.216,0.0145,0.000179,0.0733,0.67,148.964,4,170947
+Good Morning,Mak Sauce,35,Good Morning,2,0.884,0.543,-8.552,1,11,0.492,0.0603,0,0.0672,0.783,148.037,4,155742
+It's Up Freestyle,Lil Keed,60,It's Up Freestyle,51,0.859,0.391,-10.252,0,7,0.701,0.0216,0,0.0968,0.354,157.037,4,159745
+Walls Could Talk,Halsey,83,hopeless fountain kingdom (Deluxe),75,0.626,0.423,-6.035,1,1,0.0513,0.128,0,0.18,0.571,95.162,4,101790
+Tonight You Belong To Me,Patience & Prudence,39,The Best Of Patience & Prudence,52,0.68,0.32,-7.544,0,10,0.0289,0.954,0,0.0948,0.769,108.07,4,115227
+u U U U u U did i mfken stutter?,swimcoach,33,u U U U u U did i mfken stutter?,50,0.878,0.414,-11.881,1,8,0.663,0.0139,4.11e-06,0.0935,0.139,154.831,4,113502
+sex,EDEN,63,i think you think too much of me,65,0.413,0.521,-4.469,1,9,0.0466,0.162,0,0.323,0.532,103.391,4,218808
+Somebody That I Used To Know,Gotye,67,Making Mirrors (Deluxe),52,0.863,0.512,-6.955,1,0,0.0363,0.599,0.000137,0.103,0.735,129.045,4,244885
+Amour plastique,Videoclub,57,Amour plastique,68,0.7,0.354,-14.043,0,6,0.0345,0.765,0.00158,0.128,0.245,119.965,4,227027
+A.M.,Lonr.,44,A.M.,51,0.74,0.761,-4.753,0,0,0.0851,0.0691,0,0.142,0.453,146.144,4,164935
+The Love Club,Lorde,76,Pure Heroine (Extended),1,0.794,0.493,-7.257,1,5,0.0563,0.212,0.0133,0.13,0.626,92.026,4,201434
+Cartier,Dopebwoy,62,Cartier,56,0.849,0.778,-5.443,1,0,0.217,0.0358,1.43e-06,0.126,0.634,126.842,4,232422
+Fuck You,Lily Allen,67,"It's Not Me, It's You",62,0.775,0.904,-4.08,0,1,0.0437,0.0271,0.000303,0.06,0.84,130.009,4,219893
+Chanel,Frank Ocean,82,Chanel,78,0.776,0.503,-5.732,0,0,0.237,0.874,0,0.112,0.473,110.134,4,210285
+Pompeii,Bastille,75,All This Bad Blood,74,0.679,0.715,-6.383,1,9,0.0407,0.0755,0,0.271,0.571,127.435,4,214148
+No Idea,Don Toliver,78,No Idea,2,0.651,0.631,-5.717,0,6,0.0896,0.519,0.000579,0.165,0.35,127.994,4,154424
+Sweater Weather,The Neighbourhood,83,I Love You.,90,0.612,0.807,-2.81,1,10,0.0336,0.0495,0.0177,0.101,0.398,124.053,4,240400
+Drip Boy,Saint Bone,0,Drip Boy,0,0.864,0.433,-13.471,0,1,0.352,0.182,0,0.299,0.486,78.08,4,203533
+I Can't Decide,Scissor Sisters,61,Ta Dah,58,0.69,0.807,-4.912,1,3,0.0326,0.239,0,0.205,0.869,96.991,4,166573
+Just Give Me a Reason (feat. Nate Ruess),P!nk,79,The Truth About Love,80,0.778,0.547,-7.273,1,2,0.0489,0.346,0.000302,0.132,0.441,95.002,4,242733
+Griztronics,GRiZ,60,Bangers[2].Zip,60,0.607,0.941,-3.807,0,11,0.481,0.037,0.0137,0.321,0.521,75.401,4,198400
+Back Up (feat. Big Sean),DeJ Loaf,61,#AndSeeThatsTheThing,54,0.816,0.535,-8.302,1,9,0.338,0.147,4.53e-06,0.176,0.435,80.012,4,241267
+Out There,Patrick Page,44,The Hunchback of Notre Dame (Studio Cast Recording),44,0.252,0.469,-7.99,0,1,0.046,0.796,4.56e-06,0.0774,0.317,171.488,4,275947
+Choices (Yup),E-40,66,Sharp on All 4 Corners: Corner 1,0,0.9,0.604,-7.26,0,9,0.338,0.153,0.000252,0.0914,0.265,119.969,4,272720
+I Can't Handle Change,Roar,63,I Can't Handle Change,80,0.247,0.438,-8.478,1,5,0.0358,0.0447,0.000867,0.111,0.39,185.711,3,198213
+I Will Survive - Single Version,Gloria Gaynor,62,Colour Collection,60,0.771,0.649,-10.375,1,0,0.0434,0.0137,0.00111,0.324,0.653,116.286,4,197573
+Low (feat. T-Pain),Flo Rida,77,Mail on Sunday,80,0.918,0.609,-5.64,0,10,0.0791,0.0928,0,0.139,0.304,128.008,4,231400
+Rather Be (feat. Jess Glynne),Clean Bandit,75,Rather Be (feat. Jess Glynne),72,0.799,0.586,-6.735,1,11,0.0377,0.162,2.03e-06,0.193,0.549,120.97,4,227833
+I Lived,Kenny Packer,24,I Lived,35,0.636,0.674,-9.623,1,2,0.0336,0.215,1.97e-05,0.157,0.18,119.955,4,188056
+Stolen Dance,Milky Chance,71,Sadnecessary,16,0.885,0.581,-8.813,1,11,0.0378,0.427,0.000204,0.0759,0.728,114.016,4,313684
+Can't Stop Singing,Ross Lynch,62,Teen Beach Movie,59,0.513,0.69,-4.986,1,0,0.0341,0.51,0,0.102,0.777,96.881,4,145920
+Wouldn't It Be Nice - Remastered 1999,The Beach Boys,72,The Beach Boys Love Songs,60,0.429,0.543,-9.139,1,5,0.0347,0.536,2.54e-05,0.125,0.693,122.619,4,145107
+Cherry Cola,Kuwada,47,Cherry Cola,61,0.777,0.635,-6.323,0,5,0.0392,0.764,2.25e-06,0.155,0.653,138.04,4,184360
+Entropy (2014 Original),Awkward Marina,40,Entropy (2014 Original),56,0.68,0.513,-13.605,1,8,0.0598,0.22,0,0.138,0.397,106.981,4,210887
+Let Me Hit It - Audiostalkers Original Mix,Sporty-O,31,Let Me Hit It,46,0.788,0.798,-7.04,1,1,0.146,0.000122,0.222,0.0194,0.713,127.987,4,289001
+Devil Town,Cavetown,73,Cavetown,0,0.577,0.758,-8.166,1,3,0.0586,0.122,0,0.121,0.493,99.969,4,179955
+C'Mon,Kesha,76,Warrior (Expanded Edition),61,0.558,0.781,-5.448,0,1,0.0963,0.00657,0.00144,0.102,0.286,126.025,4,214307
+Hall of Fame (feat. will.i.am),The Script,72,#3 Deluxe Version,78,0.421,0.873,-4.343,1,10,0.0564,0.0654,0,0.123,0.629,84.786,4,202533
+All I Want for Christmas Is You,Mariah Carey,76,Merry Christmas,67,0.336,0.627,-7.463,1,7,0.0384,0.164,0,0.0708,0.35,150.273,4,241107
+Jingle Bell Rock,Bobby Helms,43,The Classic Years: 1956-1962,42,0.754,0.424,-8.463,1,2,0.0363,0.643,0,0.0652,0.806,119.705,4,130973
+If the World Was Ending (feat. Julia Michaels),JP Saxe,66,If the World Was Ending (feat. Julia Michaels),78,0.464,0.473,-10.086,1,1,0.129,0.866,0,0.109,0.604,75.801,4,208687
+Tequila,The Champs,48,Go Champ Go,0,0.6,0.528,-16.601,1,10,0.0385,0.752,0.684,0.0493,0.971,174.095,4,135027
+Say So,Doja Cat,88,Hot Pink,80,0.787,0.673,-4.583,0,11,0.159,0.264,3.35e-06,0.0904,0.779,110.962,4,237893
+Get Up (feat. Chamillionaire),Ciara,68,Step Up Soundtrack,52,0.941,0.631,-5.998,0,1,0.114,0.0366,1.8e-06,0.0311,0.63,128.597,4,263373
+Not What I Meant (feat. Lewis Watson),dodie,61,Human,45,0.482,0.273,-13.396,1,0,0.043,0.792,0.00223,0.109,0.142,118.952,4,143290
+The Weekend - Funk Wav Remix,SZA,82,The Weekend (Funk Wav Remix),73,0.775,0.573,-4.933,1,11,0.0585,0.495,0,0.126,0.667,101.925,4,171806
+A Thousand Years,Christina Perri,70,A Thousand Years,80,0.421,0.407,-7.445,1,10,0.0267,0.309,0.000961,0.11,0.161,139.028,3,285120
+Mr. Saxobeat - Radio Edit,Alexandra Stan,61,Sundown (Original Motion Picture Soundtrack),0,0.72,0.925,-4.165,0,4,0.0511,0.0276,0.000238,0.14,0.781,127.004,4,195105
+We R Who We R,Kesha,76,Cannibal (Expanded Edition),72,0.736,0.817,-4.9,1,8,0.0407,0.00987,0.00167,0.117,0.653,119.95,4,204760
+Crank That (Soulja Boy),Soulja Boy,69,souljaboytellem.com,74,0.736,0.74,-2.18,1,0,0.0786,0.515,0,0.0468,0.803,140.141,4,221933
+No More ?'s,Eazy-E,64,Eazy-Duz-It,69,0.935,0.805,-4.782,1,7,0.225,0.0143,1.53e-06,0.298,0.624,105.641,4,234360
+Y U Gotta B Like That,Audrey Mika,56,Y U Gotta B Like That,58,0.732,0.413,-6.353,1,9,0.0702,0.287,0,0.0565,0.761,92.066,4,154456
+Kill the Director,The Wombats,65,"Proudly Present... A Guide to Love, Loss & Desperation",64,0.41,0.858,-5.295,0,1,0.0485,0.00347,0,0.0897,0.962,161.487,4,161560
+Ligma,Billy Marchiafava,53,Ligma,49,0.937,0.397,-9.414,1,8,0.418,0.0915,0,0.0919,0.603,128.561,4,75717
+Airplane Mode,Limbo,50,Holo,0,0.665,0.373,-10.631,1,7,0.158,0.852,0.118,0.108,0.07,119.905,4,164113
+It's You,Ali Gatie,70,It's You,5,0.732,0.463,-6.972,0,11,0.0287,0.374,0,0.194,0.397,95.971,4,212607
+Baby Yoda,Song a Day,25,Baby Yoda,38,0.822,0.408,-16.616,1,2,0.206,0.373,0.0685,0.118,0.848,160.074,4,87000
+"Monsters, Inc.",Randy Newman,60,"Monsters, Inc. (Original Motion Picture Soundtrack)",55,0.68,0.465,-8.353,1,8,0.029,0.743,0.676,0.136,0.847,109.972,4,126387
+hot girl bummer,blackbear,79,hot girl bummer,5,0.778,0.559,-7.109,0,6,0.0776,0.128,0,0.399,0.678,129.989,1,185093
+Get Down,SIX,61,Six: The Musical (Studio Cast Recording),61,0.898,0.406,-9.905,0,4,0.102,0.00986,0,0.0509,0.39,102.985,4,253993
+Falling,Trevor Daniel,65,Nicotine,3,0.784,0.43,-8.756,0,10,0.0364,0.123,0,0.0887,0.236,127.087,4,159382
+successful,Ariana Grande,87,Sweetener,65,0.847,0.603,-4.607,0,0,0.0397,0.107,7.4e-06,0.106,0.735,114.045,4,227387
+Chucky Cheese,MadeinTYO,62,"Sincerely, Tokyo",55,0.89,0.542,-4.826,0,10,0.314,0.523,0,0.123,0.565,78.458,4,165293
+Sin City,Chrishan,42,Sin City,58,0.886,0.225,-11.437,1,4,0.457,0.676,0,0.0938,0.387,120.1,4,212000
+MICKEY,Lil Yachty,75,Lil Boat 2,54,0.971,0.465,-5.655,1,1,0.23,0.0295,0,0.097,0.131,119.994,4,160518
+Another Day Of Sun,La La Land Cast,46,La La Land (Original Motion Picture Soundtrack),64,0.588,0.742,-6.757,1,8,0.0528,0.0162,3.98e-06,0.653,0.824,125.819,4,228173
+Forget Me Thots,Yung Gravy,75,Yung Gravity - EP,58,0.887,0.737,-6.489,0,6,0.16,0.243,4.11e-05,0.109,0.685,104.924,4,184000
+Act Up,City Girls,67,Girl Code,67,0.938,0.638,-4.713,1,8,0.189,0.0167,0,0.111,0.313,97.075,4,158332
+This Is for Rachel,Gxrrixon,0,This Is for Rachel,0,0.9,0.461,-14.453,1,8,0.515,0.161,1.78e-06,0.089,0.35,96.985,4,165698
+Hokus Pokus,Insane Clown Posse,63,The Great Milenko,62,0.87,0.841,-5.084,0,11,0.0948,0.0193,7.71e-05,0.333,0.857,92.176,4,261173
+恋愛サーキュレーション,物語シリーズ,53,Utamonogatari Special Edition (Original Soundtrack),65,0.814,0.785,-5.679,0,1,0.0396,0.0524,0.00111,0.111,0.941,120.009,4,255040
+WTF,Young Spool,3,WTF,0,0.819,0.791,-5.736,1,8,0.324,0.372,6.22e-05,0.471,0.902,172.094,4,89293
+223's (feat. 9lokknine),YNW Melly,73,Melly vs. Melvin,66,0.932,0.547,-7.787,0,0,0.333,0.0388,0,0.0924,0.695,94.998,4,176640
+cheatercheaterbestfriendeater,Never Shout Never,49,Harmony,49,0.768,0.683,-7.173,1,7,0.0604,0.388,0,0.286,0.669,99.955,4,178144
+Myself,Bazzi,72,COSMIC,67,0.745,0.561,-5.513,0,9,0.072,0.465,1.12e-06,0.0338,0.902,195.918,4,167553
+Obsessed,Mariah Carey,76,Memoirs of an imperfect Angel (International Version),68,0.742,0.468,-5.557,0,10,0.0625,0.0465,0,0.826,0.369,86.443,4,242200
+GOODMORNINGTOKYO!,TOKYO’S REVENGE,59,GOODMORNINGTOKYO!,70,0.907,0.539,-7.782,1,4,0.36,0.0408,0,0.253,0.664,124.918,4,150115
+Walked In,Ultradiox,29,Orichalcos,42,0.891,0.538,-6.724,1,2,0.394,0.123,0,0.0848,0.643,80.032,4,107404
+Psycho!,MASN,60,Psycho!,0,0.868,0.365,-9.51,1,7,0.0383,0.433,0,0.207,0.471,114.979,4,197217
+You Need To Calm Down,Taylor Swift,93,Lover,76,0.771,0.671,-5.617,1,2,0.0553,0.00929,0,0.0637,0.714,85.026,4,171360
+Moskau,Dschinghis Khan,49,7 Leben,59,0.676,0.724,-5.941,0,5,0.039,0.0681,9.29e-05,0.139,0.676,132.056,4,221373
+Big Fun,Jon Eidson,44,Heathers: The Musical (World Premiere Cast Recording),54,0.864,0.681,-6.032,1,8,0.232,0.538,0,0.555,0.734,118.061,4,254667
+Eenie Meenie,Sean Kingston,69,Eenie Meenie,74,0.72,0.607,-4.168,1,1,0.0322,0.0543,0,0.113,0.828,121.223,4,201947
+Stereo Love,Edward Maya,64,The Stereo Love Show,18,0.771,0.728,-6.809,1,9,0.0359,0.0174,0.0299,0.0779,0.297,127.019,4,320637
+Never Ever Getting Rid of Me,Christopher Fitzgerald,48,Waitress (Original Broadway Cast Recording),63,0.622,0.542,-6.215,0,7,0.051,0.387,0,0.114,0.939,174.494,4,136200
+Wanna Be Like You,Jacob,4,Wanna Be Like You,17,0.816,0.363,-10.362,1,5,0.101,0.487,3.41e-06,0.205,0.595,104.274,4,229415
+Skinny Legend Anthem,Ava Louise,32,Skinny Legend Anthem,50,0.845,0.518,-7.568,1,11,0.299,0.0703,0,0.122,0.443,129.951,4,135993
+Material Girl,Madonna,77,Celebration (double disc version),78,0.742,0.883,-3.419,1,0,0.0329,0.333,7.51e-06,0.0964,0.978,136.506,4,240280
+I Wish - Radio Edit,Skee-Lo,51,I Wish,63,0.715,0.738,-10.139,1,7,0.157,0.00826,0,0.26,0.573,97.877,4,252307
+Oh No I Got a Disease,Buss Crew,11,Oh No I Got a Disease,26,0.649,0.735,-4.365,0,10,0.73,0.146,0,0.124,0.845,86.704,5,134769
+Woahh,Jufu,31,Woahh,22,0.749,0.283,-12.368,0,0,0.328,0.618,3.73e-06,0.0825,0.269,142.046,4,172888
