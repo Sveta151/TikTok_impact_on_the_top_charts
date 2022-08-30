@@ -63,7 +63,7 @@ from spotipy.oauth2 import SpotifyClientCredentials
 
 
 
-files = os.path.join("/Users/svetachurina122/PycharmProjects/spotify_data_collection/top_charts_2022",
+files = os.path.join("/Users/svetachurina122/PycharmProjects/spotify_data_collection/top_charts_2021",
                      "regional-global*.csv")
 files = glob.glob(files)
 df = pd.concat(map(pd.read_csv, files), ignore_index=True)
@@ -122,4 +122,4 @@ df['time_signature'] = time_signature
 df['duration_ms'] = duration_ms
 
 print(df.head())
-df.to_csv('spotify_top_charts_22.csv', index=False)
+df.to_csv('spotify_top_charts_21.csv', index=False)
