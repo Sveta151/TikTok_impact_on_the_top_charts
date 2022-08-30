@@ -50,7 +50,66 @@ intersection_21_new = popsongs_21_set.intersection(tiktok_21_more)
 print('Amount of same popular songs in tiktok and spotify at the same year (2019) ', len(intersection_19))
 print('Amount of same popular songs in tiktok and spotify at the same year (2020) ', len(intersection_20))
 print('Amount of same popular songs in tiktok and spotify at the same year (2021) ', len(intersection_21))
-print('Amount of same popular songs in tiktok and spotify at the same year (2021) bigger list ', len(intersection_21_new))
+# print('Amount of same popular songs in tiktok and spotify at the same year (2021) bigger list ', len(intersection_21_new))
 print('Amount of same popular songs in tiktok and spotify at the same year (2022) ', len(intersection_22))
 
+# finding how many songs from one year in tiktok pop become popular next year in spotify
 
+tiktok_to_spotify_19_20 = popsongs_20_set.intersection(tiktok19_set)
+tiktok_to_spotify_20_21 = popsongs_21_set.intersection(tiktok20_set)
+tiktok_to_spotify_21_22 = popsongs_22_set.intersection(tiktok_21_more)
+print('Amount of songs from prev year tiktok pop next year in spotify (2019-2020) ', len(tiktok_to_spotify_19_20))
+print('Amount of songs from prev year tiktok pop next year in spotify (2020-2021) ', len(tiktok_to_spotify_20_21))
+print('Amount of songs from prev year tiktok pop next year in spotify (2021-2022) ', len(tiktok_to_spotify_21_22))
+
+# finding amount of popular songs from one year in spotify become popular next year in tiktok
+
+spotify_to_tiktok_19_20 = popsongs_19_set.intersection(tiktok20_set)
+spotify_to_tiktok_20_21 = popsongs_20_set.intersection(tiktok21_set)
+spotify_to_tiktok_21_22 = popsongs_21_set.intersection(tiktok22_set)
+print('Amount of songs from prev year spotify top charts in tiktok (2019-2020)', len(spotify_to_tiktok_19_20))
+print('Amount of songs from prev year spotify top charts in tiktok (2020-2021)', len(spotify_to_tiktok_20_21))
+print('Amount of songs from prev year spotify top charts in tiktok (2021-2022)', len(spotify_to_tiktok_21_22))
+
+# same songs from two years tiktok
+
+tiktok_cont_19_20 = tiktok19_set.intersection(tiktok20_set)
+tiktok_cont_20_21 = tiktok20_set.intersection(tiktok21_set)
+tiktok_cont_21_22 = tiktok21_set.intersection(tiktok22_set)
+
+print('same trends for 2 years straight tik tok 2019-2020 ', len(tiktok_cont_19_20))
+print('same trends for 2 years straight tik tok 2020-2021 ', len(tiktok_cont_20_21))
+print('same trends for 2 years straight tik tok 2021-2022 ', len(tiktok_cont_21_22))
+
+# same songs from two years spotify
+
+spotify_cont_19_20 = popsongs_19_set.intersection(popsongs_20_set)
+spotify_cont_20_21 = popsongs_20_set.intersection(popsongs_21_set)
+spotify_cont_21_22 = popsongs_21_set.intersection(popsongs_22_set)
+
+print('same songs for 2 years straight spotify 2019-2020 ', len(spotify_cont_19_20))
+print('same songs for 2 years straight spotify 2020-2021 ', len(spotify_cont_20_21))
+print('same songs for 2 years straight spotify 2021-2022 ', len(spotify_cont_20_21))
+
+
+# new songs from spotify appearing in the next year tiktok
+
+new_spotify_19_20 = spotify_to_tiktok_19_20.difference(tiktok_cont_19_20)
+new_spotify_20_21 = spotify_to_tiktok_20_21.difference(tiktok_cont_20_21)
+new_spotify_21_22 = spotify_to_tiktok_21_22.difference(tiktok_cont_21_22)
+
+print('new songs from spotify appearing in the next year tiktok 2019-2020 ', len(new_spotify_19_20))
+print('new songs from spotify appearing in the next year tiktok 2020-2021 ', len(new_spotify_20_21))
+print('new songs from spotify appearing in the next year tiktok 2021-2022 ', len(new_spotify_21_22))
+
+
+
+
+# new songs from tiktok appearing in the next year charts spotify
+new_tiktok_19_20 = tiktok_to_spotify_19_20.difference(spotify_cont_19_20)
+new_tiktok_20_21 = tiktok_to_spotify_20_21.difference(spotify_cont_20_21)
+new_tiktok_21_22 = tiktok_to_spotify_21_22.difference(spotify_cont_21_22)
+
+print('new songs from tiktok appearing in the next year spotify charts 2019-2020 ', len(new_tiktok_19_20))
+print('new songs from tiktok appearing in the next year spotify charts 2020-2021 ', len(new_tiktok_20_21))
+print('new songs from tiktok appearing in the next year spotify charts 2021-2022 ', len(new_tiktok_21_22))
