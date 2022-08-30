@@ -7,7 +7,7 @@ auth_manager = SpotifyClientCredentials(client_id='88bdee511a5f42759c27f2b9075fa
                                         client_secret='6a3b0a7af04e48c4a297a184f5fb7f9d')
 sp = spotipy.Spotify(auth_manager=auth_manager)
 
-playlist_link = "https://open.spotify.com/playlist/1hpCynGYwF9Wo5GM8zvf4u?si=9098573c90094a3f"
+playlist_link = "https://open.spotify.com/playlist/662hCEwDvWgxOtQxzx732X?si=0bb949f58a41406e"
 playlist_URI = playlist_link.split("/")[-1].split("?")[0]
 track_uris = [x["track"]["uri"] for x in sp.playlist_tracks(playlist_URI)["items"]]
 header = ['track_name', 'artist_name', 'artist_pop', 'album', 'track_pop', 'danceability', 'energy', 'loudness', 'mode',
@@ -25,7 +25,7 @@ def get_playlist_tracks(playlist_id):
 
 
 tracks_p = get_playlist_tracks(playlist_URI)
-with open('TikTok_songs_2019.csv', 'w', encoding='UTF8', newline='') as f:
+with open('TikTok_songs_2021_otherone.csv', 'w', encoding='UTF8', newline='') as f:
     writer = csv.writer(f)
     writer.writerow(header)
     count = 0

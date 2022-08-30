@@ -1,0 +1,52 @@
+track_name,artist_name,artist_pop,album,track_pop,danceability,energy,loudness,mode,key,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,duration_ms
+abcdefu,GAYLE,71,abcdefu,87,0.695,0.54,-5.692,1,4,0.0493,0.299,0,0.367,0.415,121.932,4,168602
+Smokin Out The Window,Bruno Mars,87,An Evening With Silk Sonic,19,0.627,0.618,-8.529,1,2,0.0437,0.0558,0,0.351,0.848,82.03,4,197443
+As I Am,H.E.R.,74,I Used To Know Her,57,0.445,0.567,-8.19,0,2,0.245,0.0822,1.29e-06,0.225,0.176,83.661,4,240120
+I AM WOMAN,Emmy Meli,59,I AM WOMAN,76,0.646,0.471,-9.247,1,10,0.157,0.122,0,0.125,0.455,170.084,4,232813
+SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae,64,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),6,0.859,0.525,-8.051,0,1,0.0592,0.434,2.34e-05,0.108,0.312,110.066,4,204764
+Yucky Blucky Fruitcake,Doechii,63,Oh The Places You’ll Go,59,0.597,0.617,-7.482,0,8,0.282,0.463,0,0.66,0.889,97.923,4,275520
+I Am (feat. Flo Milli),Baby Tate,64,After The Rain: Deluxe,57,0.932,0.835,-3.912,1,1,0.154,0.107,0,0.0769,0.925,144.014,4,181620
+Cold Blooded,Jessi,66,Cold Blooded,68,0.961,0.739,-6.665,1,9,0.224,0.0794,0,0.0372,0.759,119.96,4,150053
+energy,Tyla Jane,46,energy,61,0.88,0.593,-5.394,1,5,0.0326,0.598,0,0.156,0.904,126.992,4,200433
+lovely (with Khalid),Billie Eilish,88,lovely (with Khalid),87,0.351,0.296,-10.109,0,4,0.0333,0.934,0,0.095,0.12,115.284,4,200186
+MONEY,LISA,70,LALISA,79,0.831,0.554,-9.998,0,1,0.218,0.161,6.12e-05,0.152,0.396,140.026,4,168228
+Vibe for Me (Bob for Me),Aqyila,32,Vibe for Me (Bob for Me),49,0.697,0.724,-4.25,0,10,0.0806,0.236,0,0.0567,0.583,120.015,4,151056
+What A Shame,Leyla Blue,57,Songs For Boys That Didn't Text Me Back,0,0.706,0.468,-7.898,0,4,0.5,0.339,0,0.0764,0.549,143.768,4,177813
+edamame (feat. Rich Brian),bbno$,73,edamame (feat. Rich Brian),77,0.815,0.848,-4.704,0,4,0.115,0.023,0.000162,0.0265,0.684,106.032,4,133707
+Beggin',Måneskin,78,Chosen,86,0.714,0.8,-4.808,0,11,0.0504,0.127,0,0.359,0.589,134.002,4,211560
+Love Nwantiti - Remix,Dj Yo!,68,Love Nwantiti (Remix),0,0.58,0.596,-4.813,1,8,0.0562,0.435,0.0888,0.0549,0.439,119.95,3,188343
+As the World Caves In,Sarah Cothran,61,As the World Caves In,3,0.372,0.255,-6.834,1,7,0.0344,0.436,0,0.33,0.254,114.402,1,161613
+Get Into It (Yuh),Doja Cat,88,Planet Her,81,0.912,0.655,-6.029,0,8,0.162,0.315,3.39e-05,0.0894,0.793,91.942,4,138293
+INFERNO,Sub Urban,67,INFERNO,70,0.82,0.611,-5.02,0,9,0.122,0.0766,2.5e-05,0.0684,0.637,127.883,4,133134
+Need to Know,Doja Cat,88,Planet Her,84,0.664,0.609,-6.509,1,1,0.0707,0.304,0,0.0926,0.194,130.041,4,210560
+Sex Talk,Megan Thee Stallion,82,Fever,61,0.906,0.763,-6.322,1,0,0.398,0.147,0,0.107,0.58,139.961,4,131209
+WHOLE LOTTA MONEY,BIA,67,FOR CERTAIN,64,0.897,0.371,-5.019,1,1,0.368,0.0904,0,0.325,0.441,81.008,4,156005
+Bundles (feat. Taylor Girlz),Kayla Nicole,54,Bundles (feat. Taylor Girlz),67,0.939,0.682,-5.931,1,11,0.306,0.00152,0,0.0552,0.584,130.022,4,154806
+Medusa,GRiZ,60,Medusa,51,0.655,0.94,-3.524,1,6,0.279,0.008,0.000132,0.458,0.694,99.981,4,190800
+Build a Bitch,Bella Poarch,65,Build a Bitch,76,0.855,0.463,-7.454,1,3,0.0367,0.217,1.77e-05,0.347,0.866,102.931,4,122773
+Arcade,Duncan Laurence,68,Small Town Boy,63,0.453,0.35,-11.639,0,9,0.0425,0.827,0.00122,0.144,0.279,72.017,3,185147
+Good Days,SZA,82,Good Days,81,0.436,0.655,-8.37,0,1,0.0583,0.499,8.1e-06,0.688,0.412,121.002,4,279204
+Levitating (feat. DaBaby),Dua Lipa,88,Levitating (feat. DaBaby),78,0.702,0.825,-3.787,0,6,0.0601,0.00883,0,0.0674,0.915,102.977,4,203064
+Venom,Little Simz,60,GREY Area,64,0.436,0.655,-8.153,1,7,0.159,0.425,0,0.393,0.523,139.712,4,154749
+Juice,Lizzo,80,Cuz I Love You,76,0.767,0.889,-2.988,1,7,0.0963,0.00611,0,0.402,0.843,119.93,4,195145
+Truth Hurts,Lizzo,80,Cuz I Love You (Super Deluxe),76,0.715,0.624,-3.046,0,4,0.114,0.11,0,0.123,0.412,158.087,4,173325
+Unstoppable,Sia,82,This Is Acting (Deluxe Version),80,0.468,0.779,-4.839,1,9,0.0779,0.112,0.000373,0.101,0.26,173.799,4,217747
+Astronaut In The Ocean,Masked Wolf,68,Astronaut In The Ocean,79,0.778,0.695,-6.865,0,4,0.0913,0.175,0,0.15,0.472,149.996,4,132780
+Bisexual Anthem,Domo Wilson,42,Bisexual Anthem,1,0.866,0.511,-10.511,0,11,0.111,0.17,0,0.162,0.296,94.006,4,187298
+Up,Cardi B,80,Up,73,0.868,0.795,-6.044,1,11,0.269,0.0012,0.0193,0.0461,0.819,166.0,4,156945
+Monster (Shawn Mendes & Justin Bieber),Shawn Mendes,83,Wonder,71,0.64,0.392,-7.246,0,2,0.0574,0.0593,0,0.0839,0.502,145.838,4,178994
+Foot Fungus,Ski Mask The Slump God,75,STOKELEY,68,0.881,0.623,-9.662,1,1,0.119,0.257,1.5e-06,0.0964,0.745,88.953,4,129547
+Best Friend (feat. Doja Cat),Saweetie,73,Best Friend (feat. Doja Cat),75,0.84,0.766,-4.12,1,4,0.136,0.00302,3.61e-06,0.0684,0.402,94.018,4,155884
+Let's Fall in Love for the Night,FINNEAS,69,Let’s Fall In Love For The Night,71,0.737,0.408,-7.941,1,5,0.104,0.802,0,0.171,0.374,127.921,4,190348
+DRUGS,Tai Verdes,70,DRUGS,1,0.868,0.449,-7.713,1,8,0.0694,0.107,0,0.631,0.746,106.852,4,159547
+I'm not Pretty,JESSIA,54,I'm not Pretty,0,0.783,0.526,-6.478,1,7,0.261,0.0802,0,0.066,0.902,75.002,4,118400
+34+35,Ariana Grande,87,Positions,80,0.83,0.585,-6.476,1,0,0.094,0.237,0,0.248,0.485,109.978,4,173711
+Drugs (feat. Two Feet),UPSAHL,61,Drugs (feat. Two Feet),60,0.824,0.549,-3.9,0,6,0.226,0.373,0,0.0779,0.434,153.812,4,155853
+Mint,Qveen Herby,58,EP 6,0,0.749,0.663,-5.639,1,9,0.0568,0.0306,0,0.218,0.251,89.997,4,178167
+POPSTAR (feat. Drake),DJ Khaled,81,POPSTAR (feat. Drake),74,0.8,0.56,-4.818,0,5,0.261,0.057,0,0.134,0.45,163.071,4,200221
+Body,Megan Thee Stallion,82,Good News,72,0.914,0.732,-6.1,0,8,0.241,0.0166,0,0.107,0.469,94.066,4,171067
+BALENCIAGA,FILV,54,BALENCIAGA,59,0.665,0.742,-8.255,1,8,0.159,0.00958,0.0125,0.477,0.202,112.023,4,154286
+Desperado,Rihanna,87,ANTI (Deluxe),72,0.685,0.61,-5.221,0,0,0.0439,0.323,0,0.102,0.323,94.384,3,186467
+positions,Ariana Grande,87,positions,2,0.736,0.802,-4.759,1,0,0.0864,0.468,0,0.094,0.675,144.005,4,172325
+Take You Dancing,Jason Derulo,80,Take You Dancing,78,0.789,0.711,-4.248,1,2,0.041,0.0332,0,0.0876,0.753,112.985,4,190306
+Play Date,Melanie Martinez,78,Cry Baby (Deluxe Edition),78,0.68,0.729,-5.077,1,5,0.0475,0.612,0,0.224,0.446,123.97,4,179867
