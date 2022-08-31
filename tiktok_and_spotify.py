@@ -1,4 +1,10 @@
 import pandas as pd
+def init():
+    global pop_songs_19
+    global pop_songs_20
+    global pop_songs_21
+    global pop_songs_22
+
 
 # spotify_20_21 = pd.read_csv('Spotify_2020-2021_pop_songs.csv')
 spotify_20 = pd.read_csv('spotify_top_charts_20.csv')
