@@ -1,6 +1,7 @@
 import plotly.express as px
 import tiktok_and_spotify as ts
 import pandas as pd
+import plotly.graph_objects as go
 
 # fig = px.line(x=["a","b","c"], y=[1,3,2], title="sample figure")
 # print(fig)
@@ -32,7 +33,7 @@ new_tiktok_spotify_19_20 = len(ts.new_tiktok_19_20)
 new_tiktok_spotify_20_21 = len(ts.new_tiktok_20_21)
 new_tiktok_spotify_21_22 = len(ts.new_tiktok_21_22)
 
-# first chart
+# first chart showing amount of same songs appearing in tiktok and spotify charts
 
 df = pd.DataFrame(
     dict(x=['2019', '2020', '2021', '2022'],
@@ -69,4 +70,30 @@ fig.update_layout(shapes=
          )
 ])
 print(fig)
-fig.show()
+# fig.show()
+
+# comparing influence of spotify and tik tok to each other
+spotify_tiktok = pd.DataFrame(
+    dict(year=['2019-2020', '2020-2021', '2021-2022'],
+         tiktok_to_spotify=[new_tiktok_spotify_19_20, new_tiktok_spotify_20_21, new_tiktok_spotify_21_22],
+         spotify_to_tiktok=[new_spotify_tiktok_19_20, new_spotify_tiktok_20_21, new_spotify_tiktok_21_22]
+         )
+)
+year = ['2019-2020', '2020-2021', '2021-2022']
+tiktok_to_spotify = [new_tiktok_spotify_19_20, new_tiktok_spotify_20_21, new_tiktok_spotify_21_22]
+spotify_to_tiktok = [new_spotify_tiktok_19_20, new_spotify_tiktok_20_21, new_spotify_tiktok_21_22]
+# fig_2 = px.line(spotify_tiktok, x='year', y=['tiktok_to_spotify', 'spotify_to_tiktok'],
+#                 title='Influence of Spotify top songs and TikTok popular songs to each other', markers=True
+#                 )
+# fig_2.show()
+fig_tsp = go.Figure()
+fig_tsp.add_trace(go.Scatter(x=year, y=tiktok_to_spotify, name='TikTok to Spotify', mode='lines+markers',
+                             line=dict(color='firebrick', width=2)))
+fig_tsp.add_trace(
+    go.Scatter(x=year, y=spotify_to_tiktok, name='Spotify to TikTok', mode='lines+markers',
+               line=dict(color='royalblue', width=2)))
+fig_tsp.update_layout(title='Influence of TikTok popular songs and Spotify top chart songs to each other', xaxis_title='Year', yaxis_title='Number of unique songs that appeared next year',
+                      legend=dict(y=0.5, font_size=16))
+
+
+fig_tsp.show()
